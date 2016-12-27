@@ -6,8 +6,8 @@
         android:shortcutShortLabel="@string/activity_home_name">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="com.learn2crack.appshortcuts"
-            android:targetClass="com.learn2crack.appshortcuts.MainActivity" />
+            android:targetPackage="ccom.pulkit.androidnougatappshortcut"
+            android:targetClass="com.pulkit.androidnougatappshortcut.MainActivity" />
     </shortcut>
     <shortcut
         android:shortcutId="profile"
@@ -16,8 +16,8 @@
         android:shortcutShortLabel="@string/activity_profile_name">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="com.learn2crack.appshortcuts"
-            android:targetClass="com.learn2crack.appshortcuts.ProfileActivity" />
+            android:targetPackage="ccom.pulkit.androidnougatappshortcut"
+            android:targetClass="com.pulkit.androidnougatappshortcut.ProfileActivity" />
     </shortcut>
 </shortcuts>
 
